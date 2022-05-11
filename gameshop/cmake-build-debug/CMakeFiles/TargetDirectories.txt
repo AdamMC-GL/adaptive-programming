@@ -1,0 +1,3 @@
+C:/Users/adam/CLionProjects/gameauto/gameshop/cmake-build-debug/CMakeFiles/gameshop.dir
+C:/Users/adam/CLionProjects/gameauto/gameshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adam/CLionProjects/gameauto/gameshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
